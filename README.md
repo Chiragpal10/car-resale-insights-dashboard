@@ -16,6 +16,10 @@ Empowers dealerships and resellers with actionable insights on market trends and
 - Power BI  
 - Data Analysis Expressions (DAX)
 
+
+## Visual Preview
+
+![Dashboard Preview](Car_resale.png)
 ---
 
 **Note:**  
